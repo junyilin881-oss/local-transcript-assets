@@ -1,0 +1,2 @@
+case_id,media_duration_seconds,local_decode_and_transcription_seconds,measurement_source,scope_note
+local-browser-001,113.99,52.95,"On-page timing text from a completed Chrome run on the Windows remote test machine","One completed run; not a cross-device performance claim or limit."
